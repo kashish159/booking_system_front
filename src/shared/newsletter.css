@@ -1,0 +1,128 @@
+/* .newsletter {
+   background: #cae5f4;
+   padding   : 0;
+   margin-top: 3rem;
+}
+
+.newsletter__content {
+   padding: 50px 0;
+}
+
+.newsletter__content h2 {
+   font-size    : 2rem;
+   margin-bottom: 1.4rem;
+}
+
+.newsletter__content p {
+   color    : var(--heading-color);
+   font-size: 1rem;
+}
+
+.newsletter__input {
+   display        : flex;
+   align-items    : center;
+   justify-content: space-between;
+   background     : #fff;
+   padding        : 0.4rem;
+   margin-bottom  : 0.8rem;
+   border-radius  : 5px;
+}
+
+.newsletter__input input {
+   border   : none;
+   font-size: 1rem;
+   color    : var(--heading-color);
+}
+
+.newsletter__input input:focus {
+   outline: none;
+}
+
+.newsletter__btn {
+   padding   : 0.5rem 1.5rem !important;
+   background: var(--secondary-color) !important;
+   color     : #fff !important;
+   font-size : 1rem !important;
+}
+
+.newsletter__img img {
+   width: 100%;
+}
+
+/* =============== RESPONSIVE ================ */
+/* @media only screen and (max-width: 992px) {
+   .newsletter__content h2 {
+      font-size: 2rem;
+   }
+
+   .newsletter__img {
+      display: none;
+   }
+}
+
+@media only screen and (max-width: 576px) {
+   .newsletter__content h2 {
+      font-size: 1.5rem;
+   }
+
+   .newsletter__img {
+      display: none;
+   }
+
+   .newsletter__content p {
+      display: none;
+   }
+} */ 
+.Main--2_custom {
+   /* text-align: center; */
+   margin: 20px 7.5%;
+ }
+ 
+ .Main-3 {
+   margin: 50px 0;
+}
+
+.card {
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    background-color: rgb(4,59,147);
+    /* color:#efefef; */
+    display:flex;
+   height:50vh !important;
+   max-width:24vw;
+   /* margin-left: 20px; */
+   border-radius: 25px;
+}
+
+.card-image {
+   height: 50vh;
+   background-color: rgb(4,59,147);
+   /* position: relative; */
+   /* overflow: hidden; */
+}
+
+.card-img {
+   padding: 0;
+   width: 100%;
+   height: 80%;
+   /* border-radius:50px; */
+}
+
+.name {
+   font-size: 22px;
+   display: flex;
+   justify-content: center;
+   /* background-color: rgb(4,59,147); */
+   padding: 5px;
+   margin-top: 1vh;
+   color: white;
+   text-align: center !important;
+
+ }
+ 
+ .slide-container {
+   width: 80%;
+   height: 50vh;
+   margin: 0 auto;
+   background-color: #fff;
+ }
